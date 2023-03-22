@@ -7,7 +7,7 @@ The following files are used to run this repository: <br />
   2: README.md <br />
   3: 'creditcard.csv' clone this repositorty and add 'creditcard.csv' from kaggle to the same folder) <br />
 
-Overall Project Information:<br />
-  Language: Python <br />
-  Technologies: Numpy, Pandas, Matplotlib, Seaborn, scikit-learn, graphviz <br />
-  Classification Models Used: Decsion Tree, Random Forest Classifier and Naive Bayes Classifer <br />
+### Overall Project Information:<br />
+  -Language: Python <br />
+  -Technologies: Numpy, Pandas, Matplotlib, Seaborn, scikit-learn, graphviz <br />
+  -Classification Models Used: Decsion Tree, Random Forest Classifier and Naive Bayes Classifer <br />
