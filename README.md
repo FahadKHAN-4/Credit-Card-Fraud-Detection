@@ -1,6 +1,6 @@
 # CreditCard-Fraud-Detection
 
-The goal of this project to classify fradulent credit card transaction using the credit card fraud detection dataset on kaggle. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download <br />
+Personal project with aims to classify fradulent credit card transaction using the credit card fraud detection dataset on kaggle. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download <br />
 
 To use this repositorty, clone and add 'creditcard.csv' from kaggle to the same folder using the link above. <br />
 
