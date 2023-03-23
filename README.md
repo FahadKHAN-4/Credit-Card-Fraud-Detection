@@ -13,9 +13,9 @@ clone this repositorty and add 'creditcard.csv' from kaggle to the same folder <
 
 **Content:** <br />
  **- Data Exploration** <br />
-      Explored the data for missing values and sampling.
+      Explored the data for missing values and sampling.<br />
  **- Dimension Reduction** <br />
-      Used correlation for feature subset selection.
+      Used correlation for feature subset selection.<br />
  **- Classification:** <br />
       Used Decsion Tree Classifier, Random Forest Classifier, Naive Bayes Classifer and Logistic Regression<br />
  **- Summary** <br />
