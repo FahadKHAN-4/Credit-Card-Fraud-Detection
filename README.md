@@ -1,4 +1,4 @@
-# CreditCard-Fraud-Detection
+# Credit Card Fraud Detection
 
 Personal project with aims to classify fradulent credit card transaction using the credit card fraud detection dataset on kaggle. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download <br />
 
