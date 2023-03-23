@@ -8,5 +8,13 @@ The following files are used to use this repository: <br />
 
 ### Overall Project Information:<br />
   - Language: Python <br />
-  - Technologies: Numpy, Pandas, Matplotlib, Seaborn, scikit-learn, graphviz <br />
-  - Classification Models Used: Decsion Tree, Random Forest Classifier and Naive Bayes Classifer <br />
+  - Technologies: Pandas, Seaborn, Matplotlib, scikit-learn, graphviz <br />
+
+Content:
+  - Data Exploration <br />
+    Explored the data for missing values and sampling.
+  - Dimension Reduction <br />
+    Used correlation for feature subset selection.
+  - Classification: <br />
+    Used Decsion Tree Classifier, Random Forest Classifier, Naive Bayes Classifer and Logistic Regression<br />
+  - Summary <br />
